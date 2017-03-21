@@ -1,0 +1,5 @@
+from SimilarSongs import GetSimilarSongs
+from GetDetailSong import GetSongDetail
+from GetHotSong import GetHotSong
+from GetRankSongs import GetRankSongs
+from GetPromotionAlbums import GetPromotionAlbums
